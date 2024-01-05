@@ -27,8 +27,8 @@ Follow these steps to set up and run the project locally:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-web3-app.git
-   cd your-web3-app
+   git clone https://github.com/BoddepallyVenkatesh06/Krypt-Web-App.git
+   cd Krypt-Web-App
    ```
 
 2. Install dependencies:
@@ -62,7 +62,9 @@ Follow these steps to set up and run the project locally:
 
 If you would like to contribute to this project, feel free to open issues or submit pull requests. We welcome any suggestions, improvements, or bug fixes.
 
-## Launch My Web App in below
+https://github.com/harshagrawal2503
+
+## Launch My Web App in the below
 
 https://krypt-web-app.netlify.app/
 
