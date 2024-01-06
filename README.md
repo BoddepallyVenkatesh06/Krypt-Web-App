@@ -1,4 +1,5 @@
-# Krypt - Web 3.0 Blockchain Application
+# Krypt - Web 3.0 Blockchain Application <p align="left"> <img src="https://komarev.com/ghpvc/?username=BoddepallyVenkatesh06&label=Project%20views&color=0e75b6&style=flat" alt="BoddepllyVenkatesh06" /> </p>
+
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
 ![Services](client/images/Screenshot.png)
